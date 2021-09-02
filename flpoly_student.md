@@ -1,27 +1,27 @@
-## First Name Last Name
+## Emery Lipoff
 
-### Term Year 
+### FA 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Analytic Geometry and Calculus 1
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Introduction to Programming Using Python
 
-- Course 4
+- Cloud Infrastructure and Services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Music
 
-- Thing 2
+- Engineering
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video Games as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
